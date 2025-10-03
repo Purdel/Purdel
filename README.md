@@ -5,10 +5,9 @@
 
 - 🌱 I’m currently learning **CSS, HTML & JS**
 
-- ⛰️ I hike a lot**
+- ⛰️ I hike a lot
 
-- 🧑‍🎓 I study mathematics at Krakozhia polytechnic**
-
+- 🧑‍🎓 I study mathematics at Krakozhia polytechnic
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/aznpd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aznpd" height="30" width="40" /></a>
