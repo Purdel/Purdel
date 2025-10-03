@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **CSS, HTML & JS**
 
-- 📫 How to reach me **azp.2004.83@gmail.com**
+- ⛰️ I hike a lot**
+
+- 🧑‍🎓 I study mathematics at Krakozhia polytechnic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
