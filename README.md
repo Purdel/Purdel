@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h1 align="center">Hi 👋, I'm Pordel</h1>
+<h3 align="center">A passionate frontend developer from Krakozhia</h3>
 
 - 🔭 I’m currently working on **my github profile**
 
